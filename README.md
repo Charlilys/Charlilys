@@ -8,16 +8,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!DOCTYPE html>
-<html>
-
-
-  <div>
-  <h1 style="margin: auto;"> HI im a paragraph </h1>
-  <img src="https://github.com/Charlilys/ChawCustom/blob/main/Internet/ToH/butches.gif" alt="butches">
-  </div>
-
-</html>
+  <h1 style="align: center;"> HI im a paragraph </h1>
+  <img src="https://github.com/Charlilys/ChawCustom/blob/main/Internet/ToH/butches.gif" alt="butches"
+    style="align: center;">
 
 
 ---
