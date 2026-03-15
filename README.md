@@ -8,9 +8,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <h1 style="align: center;"> HI im a paragraph </h1>
-  <img src="https://github.com/Charlilys/ChawCustom/blob/main/Internet/ToH/butches.gif" alt="butches"
-    style="align: center;">
+  <table>
+  <tr>
+    <th> First cell </th>
+    <th> <img src="https://github.com/Charlilys/ChawCustom/blob/main/Internet/ToH/butches.gif" alt="butches"></th>
+    <th> Last cell </th>
+    
+  </tr>
+   
+  
+  </table>
+ 
 
 
 ---
