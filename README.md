@@ -62,8 +62,10 @@ align="left" alt="C++" width="40px" style="padding-right:10px;" />
 <img src="https://github.com/Charlilys/Charlilys/blob/main/assets/stamps/have-you-seen-me-brain-by-LumiResources.gif" alt="brain"/>
 </p>
 
-
 <!-- Blinkies -->
-          
+<p align="center">
+<img src="https://github.com/Charlilys/Charlilys/blob/main/assets/blinkies/maya-spin.gif" alt="mayaspin"/>
+<img src="https://github.com/Charlilys/Charlilys/blob/main/assets/blinkies/maya-time.gif" alt="mayatime"/>
+</p>         
 
 
