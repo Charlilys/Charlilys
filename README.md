@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 
   <table>
-    <th style="align:center;"> <img src="https://github.com/Charlilys/ChawCustom/blob/main/Internet/ToH/butches.gif" alt="butches"></th>
+    <th align="center"> <img src="https://github.com/Charlilys/ChawCustom/blob/main/Internet/ToH/butches.gif" alt="butches"></th>
   </tr>
    
   
