@@ -29,10 +29,7 @@ align="left" alt="C++" width="30px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg"
   align="left" alt="premiere" width="30px" style="padding-right:10px;" />
 
-
-
-
-
+#
        
  
           
