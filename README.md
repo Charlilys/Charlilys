@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-</style>
   <table>
   <tr style="width: 100%">
     <th> First cell </th>
