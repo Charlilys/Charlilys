@@ -31,11 +31,19 @@ align="left" alt="C++" width="40px" style="padding-right:10px;" />
 <br> <br>
 
 <h2> 🔍 About Me </h2>
-<p align="center"> <a href="https://lgbtqia.fandom.com/fr/wiki/Transmasculin"> <img alt="Transmasc" src="https://i.imgur.com/NcDaJx2.png" width="100px" style="padding-right:10px"/></a>
+
+<!-- Id buttons -->
+<p align="center"> 
+<a href="https://lgbtqia.fandom.com/fr/wiki/Transmasculin"> <img alt="Transmasc" src="https://i.imgur.com/NcDaJx2.png" width="100px" style="padding-right:10px"/></a>
 <a href="https://lgbtqia.fandom.com/fr/wiki/Non_binaire" > <img src="https://i.imgur.com/tn0RSo5.png" alt="Nonbinary" width="100px" style="padding-right:10px"/> </a>
 </p>
 
-       
+<!-- Fancy buttons -->
+<p align="center">
+<img src="https://github.com/Charlilys/Charlilys/blob/main/assets/steam.gif" alt="steam"/>
+</p>
+
+<!-- Stamps -->
  
           
 
