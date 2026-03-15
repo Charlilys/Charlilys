@@ -64,8 +64,9 @@ align="left" alt="C++" width="40px" style="padding-right:10px;" />
 
 <!-- Blinkies -->
 <p align="center">
-<img src="https://github.com/Charlilys/Charlilys/blob/main/assets/blinkies/maya-spin.gif" alt="mayaspin"/>
 <img src="https://github.com/Charlilys/Charlilys/blob/main/assets/blinkies/maya-time.gif" alt="mayatime"/>
+<img src="https://github.com/Charlilys/Charlilys/blob/main/assets/blinkies/maya-spin.gif" alt="mayaspin"/>
+
 </p>         
 
 
