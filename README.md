@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center"> Welcome 😼 </h1>
 <p align="center"><img src="https://github.com/Charlilys/ChawCustom/blob/main/Internet/ToH/butches.gif" alt="butches"> </p>  
  
 
