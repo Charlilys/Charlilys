@@ -9,8 +9,9 @@ Here are some ideas to get you started:
 -->
 
 
-<div style="display: flex; justify-content: center;">
+<div style="height: display: flex; justify-content: center;">
 
+<p style="margin: auto;"> HI im a paragraph </p>
   <img src="https://github.com/Charlilys/ChawCustom/blob/main/Internet/ToH/butches.gif" alt="butches"
 style="width: 50%;">
 
