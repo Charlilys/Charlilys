@@ -31,8 +31,9 @@ align="left" alt="C++" width="40px" style="padding-right:10px;" />
 <br> <br>
 
 <h2> 🔍 About Me </h2>
-<a href="https://lgbtqia.fandom.com/fr/wiki/Transmasculin"> <img alt="Transmasc" src="https://i.imgur.com/NcDaJx2.png" width="100px" style="padding-right:10px"/></a>
-<a href="https://lgbtqia.fandom.com/fr/wiki/Non_binaire" > <img src="https://i.imgur.com/tn0RSo5.png" alt="Nonbinary" width="100px" style="padding-right:10px" /></a>
+<p align="center"> <a href="https://lgbtqia.fandom.com/fr/wiki/Transmasculin"> <img alt="Transmasc" src="https://i.imgur.com/NcDaJx2.png" width="100px" style="padding-right:10px"/></a>
+<a href="https://lgbtqia.fandom.com/fr/wiki/Non_binaire" > <img src="https://i.imgur.com/tn0RSo5.png" alt="Nonbinary" width="100px" style="padding-right:10px"/> </a>
+</p>
 
        
  
