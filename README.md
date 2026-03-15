@@ -30,6 +30,7 @@ align="left" alt="C++" width="40px" style="padding-right:10px;" />
   align="left" alt="premiere" width="40px" style="padding-right:10px;" />
 <br> <br>
 
+<!-- Customization -->
 <h2> 🔍 About Me </h2>
 
 <!-- Id buttons -->
@@ -40,12 +41,23 @@ align="left" alt="C++" width="40px" style="padding-right:10px;" />
 
 <!-- Fancy buttons -->
 <p align="center">
-<a href="https://steamcommunity.com/profiles/76561198812605379"> <img src="https://github.com/Charlilys/Charlilys/blob/main/assets/steam.gif" alt="steam"/> </a>
-<a href=""
+<a href="https://steamcommunity.com/profiles/76561198812605379"> <img src="https://github.com/Charlilys/Charlilys/blob/main/assets/buttons/steam.gif" alt="steam"/> </a>
+<img src="https://github.com/Charlilys/Charlilys/blob/main/assets/buttons/wii.png" alt="wii"/>
+<img src="https://github.com/Charlilys/Charlilys/blob/main/assets/buttons/mod-3ds.jpg" alt="3ds"/>
+<img src="https://github.com/Charlilys/Charlilys/blob/main/assets/buttons/ds.png" alt="ds"/>
+<img src="https://github.com/Charlilys/Charlilys/blob/main/assets/buttons/ilikecomputer.png" alt="computer"/>
+<img src="https://github.com/Charlilys/Charlilys/blob/main/assets/buttons/linux-powered.gif" alt="linux"/>
+<img src="https://github.com/Charlilys/Charlilys/blob/main/assets/buttons/newgrounds.gif" alt="flash"/>
+<img src="https://github.com/Charlilys/Charlilys/blob/main/assets/buttons/nonbinary.png" alt="nb"/>
+<img src="https://github.com/Charlilys/Charlilys/blob/main/assets/buttons/trans.jpg" alt="trans"/>
+<img src="https://github.com/Charlilys/Charlilys/blob/main/assets/buttons/rats.gif" alt="ratsButton"/>
+<img src="https://github.com/Charlilys/Charlilys/blob/main/assets/buttons/tism.png" alt="tism"/>
 </p>
 
 <!-- Stamps -->
- 
+
+
+<!-- Blinkies -->
           
 
 
