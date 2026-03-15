@@ -29,9 +29,7 @@ align="left" alt="C++" width="50px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg"
   align="left" alt="premiere" width="50px" style="padding-right:10px; />
 
-<!-- Buttons -->
-<h2> See more </h2>
-<p> Just a test </p>
+Test
 
        
  
