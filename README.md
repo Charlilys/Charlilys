@@ -9,7 +9,11 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://github.com/Charlilys/ChawCustom/blob/main/Internet/ToH/butches.gif" alt="butches"
-style="display: flex; justify-content: center; width: 50%;">
+<div style="display: flex; justify-content: center;">
+
+  <img src="https://github.com/Charlilys/ChawCustom/blob/main/Internet/ToH/butches.gif" alt="butches"
+style="width: 50%;">
+
+</div>
 
 ---
