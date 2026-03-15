@@ -32,6 +32,7 @@ align="left" alt="C++" width="40px" style="padding-right:10px;" />
 
 <h2> About Me </h2>
 <img alt="Transmasc" src="https://i.imgur.com/NcDaJx2.png" />
+<img src="https://i.imgur.com/tn0RSo5.png" alt="Nonbinary"/>
 
        
  
