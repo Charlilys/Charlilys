@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 <header>
 <img src="https://github.com/Charlilys/ChawCustom/blob/main/Internet/ToH/butches.gif" alt="butches" 
-style="display: flex;">
+style="display: block; margin: auto;">
 </header>
 
 ---
