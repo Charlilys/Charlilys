@@ -40,7 +40,8 @@ align="left" alt="C++" width="40px" style="padding-right:10px;" />
 
 <!-- Fancy buttons -->
 <p align="center">
-<img src="https://github.com/Charlilys/Charlilys/blob/main/assets/steam.gif" alt="steam"/>
+<a href="https://steamcommunity.com/profiles/76561198812605379"> <img src="https://github.com/Charlilys/Charlilys/blob/main/assets/steam.gif" alt="steam"/> </a>
+<a href=""
 </p>
 
 <!-- Stamps -->
