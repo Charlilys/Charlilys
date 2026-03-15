@@ -50,11 +50,16 @@ align="left" alt="C++" width="40px" style="padding-right:10px;" />
 <img src="https://github.com/Charlilys/Charlilys/blob/main/assets/buttons/newgrounds.gif" alt="flash"/>
 <img src="https://github.com/Charlilys/Charlilys/blob/main/assets/buttons/nonbinary.png" alt="nb"/>
 <img src="https://github.com/Charlilys/Charlilys/blob/main/assets/buttons/trans.jpg" alt="trans"/>
-<img src="https://github.com/Charlilys/Charlilys/blob/main/assets/buttons/rats.gif" alt="ratsButton"/>
-<img src="https://github.com/Charlilys/Charlilys/blob/main/assets/buttons/tism.png" alt="tism"/>
+<img src="https://github.com/Charlilys/Charlilys/blob/main/assets/buttons/rats.gif" alt="rats"/>
 </p>
 
 <!-- Stamps -->
+<img src="https://github.com/Charlilys/Charlilys/blob/main/assets/stamps/marcille.gif" alt="marcille"/>
+<img src="https://github.com/Charlilys/Charlilys/blob/main/assets/stamps/falin.png" alt="falin"/>
+<img src="https://github.com/Charlilys/Charlilys/blob/main/assets/stamps/gay-occupuation-gay-by-babykttn.png" alt="tobegay"/>
+<img src="https://github.com/Charlilys/Charlilys/blob/main/assets/stamps/giantrat.png" alt="giantrat"/>
+<img src="https://github.com/Charlilys/Charlilys/blob/main/assets/stamps/have-you-seen-me-brain-by-LumiResources.gif" alt="brain"/>
+
 
 
 <!-- Blinkies -->
