@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://github.com/Charlilys/Charlilys/blob/main/assets/header.gif" alt="butches"> </p>  
 <h1 align="center"> Welcome 😼 </h1>
 
-<p> Hello there! I'm Charlie currently student at 42 Paris, I'm looking forward to increase my skills in
-developement and computer science. I enjoy learning various aspects of programming, but I remain very interested in Gaming and overall, indie dev/art. Hopefully I can experiment and make games in both low and high programming languages, and share my journey somewhere on the internet! </p>
+Hello there! I'm Charlie currently student at 42 Paris, I'm looking forward to increase my skills in
+developement and computer science. I enjoy learning various aspects of programming, but I remain very interested in Gaming and overall, indie dev/art. Hopefully I can experiment and make games in both low and high programming languages, and share my journey somewhere on the internet!
 
 
 <h2> 🔧 Languages and Tools </h2>
