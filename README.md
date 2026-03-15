@@ -11,25 +11,24 @@ Hi! I'm **Charlie** currently student at 42 Paris, I'm looking forward to increa
 <!-- Icons -->
 <h2>🔧 Languages and Tools </h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
-  align="left" alt="Linux" width="30px" style="padding-right:10px;" />
+  align="left" alt="Linux" width="40px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
-  align="left" alt="Bash" width="30px" style="padding-right:10px;" />
+  align="left" alt="Bash" width="40px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
- align="left" alt="C" width="30px" style="padding-right:10px;" /> 
+ align="left" alt="C" width="40px" style="padding-right:10px;" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
-align="left" alt="C++" width="30px" style="padding-right:10px;" />
+align="left" alt="C++" width="40px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
- align="left" alt="git" width="30px" style="padding-right:10px;" />
+ align="left" alt="git" width="40px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" 
-   align="left" alt="godot" width="30px" style="padding-right:10px;" />
+   align="left" alt="godot" width="40px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-  align="left" alt="html5" width="30px" style="padding-right:10px;" />
+  align="left" alt="html5" width="40px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" 
- align="left" alt="premiere" width="30px" style="padding-right:10px;" />
+ align="left" alt="premiere" width="40px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg"
-  align="left" alt="premiere" width="30px" style="padding-right:10px;" />
+  align="left" alt="premiere" width="40px" style="padding-right:10px;" />
 
-#
        
  
           
