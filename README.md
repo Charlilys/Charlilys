@@ -30,7 +30,8 @@ align="left" alt="C++" width="40px" style="padding-right:10px;" />
   align="left" alt="premiere" width="40px" style="padding-right:10px;" />
 <br> <br>
 
-<h2> See More </h2>
+<h2> About Me </h2>
+<img alt="Transmasc" src="https://i.imgur.com/NcDaJx2.png" />
 
        
  
