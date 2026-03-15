@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 Hello there! I'm Charlie currently student at 42 Paris, I'm looking forward to increase my skills in
 developement and computer science. I enjoy learning various aspects of programming, but I remain very interested in Gaming and overall, indie dev/art. Hopefully I can experiment and make games in both low and high programming languages, and share my journey somewhere on the internet!
 
+---
 
 <h2> 🔧 Languages and Tools </h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
