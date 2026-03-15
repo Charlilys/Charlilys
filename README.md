@@ -9,11 +9,7 @@ Here are some ideas to get you started:
 -->
 
   <table>
-  <tr style="width: 100%">
-    <th> First cell </th>
-    <th> <img src="https://github.com/Charlilys/ChawCustom/blob/main/Internet/ToH/butches.gif" alt="butches"></th>
-    <th> Last cell </th>
-    
+    <th style="align:center;"> <img src="https://github.com/Charlilys/ChawCustom/blob/main/Internet/ToH/butches.gif" alt="butches"></th>
   </tr>
    
   
