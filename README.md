@@ -8,9 +8,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<html>
+<head>
+<style>
+img {
+
+  display: block;
+  margin: auto;
+}
+  
+</style>
+</head>
 <header>
 <img src="https://github.com/Charlilys/ChawCustom/blob/main/Internet/ToH/butches.gif" alt="butches" 
-style="display: block; margin: auto; width: 50%">
+style="width: 50%;">
 </header>
+
+
+</html>
+
 
 ---
