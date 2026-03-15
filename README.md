@@ -56,7 +56,7 @@ align="left" alt="C++" width="40px" style="padding-right:10px;" />
 <!-- Stamps -->
 <p align="center">
 <img src="https://github.com/Charlilys/Charlilys/blob/main/assets/stamps/marcille.gif" alt="marcille"/>
-<img src="https://github.com/Charlilys/Charlilys/blob/main/assets/stamps/falin.png" alt="falin"/>
+<img width="100px" src="https://github.com/Charlilys/Charlilys/blob/main/assets/stamps/falin.png" alt="falin"/>
 <img src="https://github.com/Charlilys/Charlilys/blob/main/assets/stamps/gay-occupuation-gay-by-babykttn.png" alt="tobegay"/>
 <img src="https://github.com/Charlilys/Charlilys/blob/main/assets/stamps/giantrat.png" alt="giantrat"/>
 <img src="https://github.com/Charlilys/Charlilys/blob/main/assets/stamps/have-you-seen-me-brain-by-LumiResources.gif" alt="brain"/>
