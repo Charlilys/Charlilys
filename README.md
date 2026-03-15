@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p style="text-align: center;"> Hi im a text </p>
   <table>
     <th align="center"> <img src="https://github.com/Charlilys/ChawCustom/blob/main/Internet/ToH/butches.gif" alt="butches"></th>
   </tr>
