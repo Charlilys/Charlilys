@@ -7,7 +7,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - ⚡ Fun fact: ...
 -->
-
+<style>
+tr {
+  width: 100%;
+}
+</style>
   <table>
   <tr>
     <th> First cell </th>
