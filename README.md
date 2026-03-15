@@ -31,8 +31,8 @@ align="left" alt="C++" width="40px" style="padding-right:10px;" />
 <br> <br>
 
 <h2> 🔍 About Me </h2>
-<img alt="Transmasc" src="https://i.imgur.com/NcDaJx2.png" />
-<img src="https://i.imgur.com/tn0RSo5.png" alt="Nonbinary"/>
+<a href="https://lgbtqia.fandom.com/fr/wiki/Transmasculin"> <img alt="Transmasc" src="https://i.imgur.com/NcDaJx2.png" /> </a>
+<a href="https://lgbtqia.fandom.com/fr/wiki/Non_binaire"> <img src="https://i.imgur.com/tn0RSo5.png" alt="Nonbinary"/></a>
 
        
  
