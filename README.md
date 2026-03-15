@@ -10,13 +10,13 @@ Here are some ideas to get you started:
 
 <!DOCTYPE html>
 <html>
-  <div style="display: flex; justify-content: center;">
 
-<h1 style="margin: auto;"> HI im a paragraph </h1>
-  <img src="https://github.com/Charlilys/ChawCustom/blob/main/Internet/ToH/butches.gif" alt="butches"
-style="width: 50%;">
 
-</div>
+  <div>
+  <h1 style="margin: auto;"> HI im a paragraph </h1>
+  <img src="https://github.com/Charlilys/ChawCustom/blob/main/Internet/ToH/butches.gif" alt="butches">
+  </div>
+
 </html>
 
 
