@@ -8,7 +8,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<header>
 <img src="https://github.com/Charlilys/ChawCustom/blob/main/Internet/ToH/butches.gif" alt="butches" 
 style="margin: auto;">
+</header>
 
 ---
