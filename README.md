@@ -9,24 +9,9 @@ Here are some ideas to get you started:
 -->
 
 
-<html>
-<head>
-<style>
-img {
-
-  display: block;
-  margin: auto;
-}
   
-</style>
-</head>
-<header>
+
 <img src="https://github.com/Charlilys/ChawCustom/blob/main/Internet/ToH/butches.gif" alt="butches" 
-style="width: 50%;">
-</header>
-
-
-</html>
-
+style="display:block, margin: auto; width: 50%;">
 
 ---
